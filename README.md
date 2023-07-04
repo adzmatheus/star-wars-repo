@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![./lightsaber.png] (The lightsaber)
+![The lightsaber] (./lightsaber.png)
 
 Repositório exemplo utilizado no curso de GIT.
 
