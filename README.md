@@ -1,4 +1,5 @@
 # Star Wars Repo
+Teste e utilização de comandos GIT.
 
 ![The lightsabers](./lightsabers.png)
 
